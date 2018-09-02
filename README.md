@@ -1,5 +1,7 @@
 # treasure-map-mvp
 
+// anyone can pr to this without a review, be sensible
+
 **How the game works...**
 
 - Go to these places of interest on the map
